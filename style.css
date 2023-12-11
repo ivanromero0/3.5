@@ -2,7 +2,7 @@ header{
     background-color: lightgoldenrodyellow;
     
 }
-nav.uno {
+.uno {
     background-color: greenyellow;
 }
 .dos {
@@ -11,7 +11,7 @@ nav.uno {
 footer {
     background-color: blue;
 }
-p.foot{
+span.foot{
     background-color: yellow;
     color: blue;
 }
