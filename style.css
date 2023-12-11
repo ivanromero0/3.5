@@ -1,0 +1,17 @@
+header{
+    background-color: lightgoldenrodyellow;
+    
+}
+nav.uno {
+    background-color: greenyellow;
+}
+.dos {
+    background-color: orange;
+}
+footer {
+    background-color: blue;
+}
+p.foot{
+    background-color: yellow;
+    color: blue;
+}
